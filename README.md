@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Unnati Lohakare</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unnati-lohakare&label=Profile%20views&color=0e75b6&style=flat" alt="unnati-lohakare" /> </p>
 
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unnati-lohakare&show_icons=true&locale=en" alt="unnati-lohakare" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unnati-lohakare&" alt="unnati-lohakare" /></p>
-
