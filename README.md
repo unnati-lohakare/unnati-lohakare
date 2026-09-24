@@ -107,14 +107,14 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 ## 🚀 Featured Projects
 
-### 📊 Data Analysis Projects
+## 📊 Data Analysis Projects
 
-| Project                       | Description                                                       | Tools                   |
-| ----------------------------- | ----------------------------------------------------------------- | ----------------------- |
-| 📈 **Sales Data Analysis**    | Analyze sales performance, revenue trends and business KPIs       | Python • Pandas • Excel |
-| 🏥 **Hospital Data Analysis** | Explore patient data, departments, expenses and healthcare trends | SQL • MySQL             |
-| 👥 **Employee Data Analysis** | Analyze employee information, salaries and departmental insights  | SQL • Excel             |
-| 🧹 **Data Cleaning Project**  | Clean, transform and prepare messy datasets for analysis          | Excel • Python • Pandas |
+| Project | Description | Tools |
+|:---|:---|:---|
+| 📈 **Music Data Analysis** | Analyze music data to uncover artist performance, song popularity, album trends and release patterns | Power BI • DAX • Power Query|
+| 🏥 **Hospital Data Analysis** | Analyze hospital data to identify patient, department and healthcare service trends | SQL • MySQL • Excel |
+| 🛒 **Zepto Data Analysis** | Analyze e-commerce product data to uncover pricing, discounts, categories and product-level insights | SQL • MySQL • Excel |
+| 🧹 **Data Cleaning Project** | Clean, transform and prepare raw datasets for accurate and reliable analysis | Excel • Python • Pandas |
 
 > 💡 More projects coming soon as I continue building my Data Analytics portfolio.
 
