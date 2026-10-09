@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Unnati Lohakare</h1>
 
 <h3 align="center">
-  📊 Data Analyst | SQL • Python • Excel • Data Visualization
+  📊 Aspiring Data Analyst | SQL • Python • Excel • Data Visualization
 </h3>
 
 <p align="center">
