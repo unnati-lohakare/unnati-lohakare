@@ -49,6 +49,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 <p align="left">
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PowerBi-Visualization-4C72B0?style=for-the-badge"/>
 </p>
 
 ### 🧰 Tools
