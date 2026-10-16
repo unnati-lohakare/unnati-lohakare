@@ -20,27 +20,17 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 ## 🛠️ Skills & Tools
 
-### 📊 Data Analytics
+• **Analytics & BI:** Data cleaning, transformation, KPI dashboards, trend analysis, BI Reporting
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+• **Visualization:** Power BI (DAX, Data Modeling, Drill-throughs, Bookmarks, Tooltips), Storytelling with data
 
-### 📈 Data Visualization
+• **Programming & Database:** Python (Padas, NumPy, Matplotlib), SQL (Joins, CTEs, Window Functions)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PowerBi-Visualization-4C72B0?style=for-the-badge"/>
-</p>
+• **Excel & Google Sheets:** Pivot Tables, Advanced Formulas, Power Query, Dashboard Development, Data Validation
 
 ### 🧰 Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
@@ -106,16 +96,21 @@ Actionable Decisions
 
 ## 💡 What I Enjoy Working On
 
-```text
 📌 Data Cleaning & Preparation
+
 📌 Exploratory Data Analysis
+
 📌 SQL Queries & Database Analysis
+
 📌 Excel Data Analysis
+
 📌 Business & Sales Analytics
+
 📌 Healthcare Data Analysis
+
 📌 Data Visualization
+
 📌 Finding patterns hidden inside data
-```
 
 ---
 
@@ -135,10 +130,10 @@ Actionable Decisions
 
 ---
 
-<p align="center">
-  <i>"Turning data into insights, one dataset at a time."</i>
+<p align="left">
+  <b><i>Turning data into insights, one dataset at a time.</i><b>
 </p>
 
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
+<p align="left">
+   If you find my projects useful, consider giving them a star!⭐
 </p>
