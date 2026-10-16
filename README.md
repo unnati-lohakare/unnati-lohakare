@@ -115,7 +115,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 | 📈 **Music Data Analysis** | Analyze music data to uncover artist performance, song popularity, album trends and release patterns | Power BI • DAX • Power Query|
 | 🏥 **Hospital Data Analysis** | Analyze hospital data to identify patient, department and healthcare service trends | SQL • MySQL • Excel |
 | 🛒 **Zepto Data Analysis** | Analyze e-commerce product data to uncover pricing, discounts, categories and product-level insights | SQL • MySQL • Excel |
-| 🧹 **Data Cleaning Project** | Clean, transform and prepare raw datasets for accurate and reliable analysis | Excel • Python • Pandas |
+| 🧹 **Customer Behavior Analysis** | Python, SQL, and Power BI project analyzing customer purchasing behavior, spending patterns, product preferences, discounts, subscriptions, and customer segments. | Python • SQL • Power BI |
 
 > 💡 More projects coming soon as I continue building my Data Analytics portfolio.
 
