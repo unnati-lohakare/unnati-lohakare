@@ -1,4 +1,4 @@
-## Hi, there! It's Unnati!
+<b>Hi, there! It's Unnati! 👋<b>
 
 ## 👩‍💻 About Me
 
