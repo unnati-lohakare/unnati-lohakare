@@ -50,28 +50,6 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 ---
 
-## 📚 Currently Learning
-
-```text
-SQL
-████████████████████░░  85%
-
-Python
-████████████████░░░░░░  70%
-
-Excel
-██████████████████░░░░  80%
-
-Data Visualization
-███████████████░░░░░░░  65%
-
-Statistics
-████████████░░░░░░░░░░  55%
-
-Power BI
-██████████░░░░░░░░░░░░  45%
-```
-
 ---
 
 ## 🎯 My Data Analytics Journey
