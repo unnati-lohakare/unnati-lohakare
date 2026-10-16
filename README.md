@@ -22,7 +22,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 • **Analytics & BI:** Data cleaning, transformation, KPI dashboards, trend analysis, BI Reporting
 
-• **Visualization:** Power BI (DAX, Data Modeling, Drill-throughs, Bookmarks, Tooltips), Storytelling with data
+• **Visualization:** Power BI (DAX, Data Modeling, Drill-throughs, Bookmarks, Tooltips), Tableau
 
 • **Programming & Database:** Python (Padas, NumPy, Matplotlib), SQL (Joins, CTEs, Window Functions)
 
