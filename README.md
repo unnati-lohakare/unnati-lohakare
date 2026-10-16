@@ -1,19 +1,4 @@
-<h1 align="center">Hi 👋, I'm Unnati Lohakare</h1>
-
-<h3 align="center">
-  📊 Aspiring Data Analyst | SQL • Python • Excel • Data Visualization
-</h3>
-
-<p align="center">
-  <a href="https://github.com/unnati-lohakare">
-    <img src="https://komarev.com/ghpvc/?username=unnati-lohakare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/unnati-lohakare?tab=followers">
-    <img src="https://img.shields.io/github/followers/unnati-lohakare?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
-  </a>
-</p>
-
----
+Hi, there!, It's Unnati Lohakare 👋
 
 ## 👩‍💻 About Me
 
@@ -61,52 +46,6 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 </p>
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unnati-lohakare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnati-lohakare&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=unnati-lohakare&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unnati-lohakare&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unnati-lohakare&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📌 GitHub Overview
-
-<p align="center">
-  <img src="https://img.shields.io/github/repos/unnati-lohakare?style=for-the-badge&label=TOTAL%20REPOSITORIES"/>
-  <img src="https://img.shields.io/github/stars/unnati-lohakare?style=for-the-badge&label=TOTAL%20STARS"/>
-  <img src="https://img.shields.io/github/followers/unnati-lohakare?style=for-the-badge&label=FOLLOWERS"/>
-  <img src="https://komarev.com/ghpvc/?username=unnati-lohakare&style=for-the-badge&label=PROFILE%20VIEWS"/>
-</p>
-
----
-
-## 🚀 Featured Projects
 
 ## 📊 Data Analysis Projects
 
@@ -167,6 +106,7 @@ Actionable Decisions
 
 ## 💡 What I Enjoy Working On
 
+```text
 📌 Data Cleaning & Preparation
 📌 Exploratory Data Analysis
 📌 SQL Queries & Database Analysis
@@ -175,6 +115,7 @@ Actionable Decisions
 📌 Healthcare Data Analysis
 📌 Data Visualization
 📌 Finding patterns hidden inside data
+```
 
 ---
 
