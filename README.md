@@ -1,4 +1,4 @@
-Hi, there!, It's Unnati Lohakare 👋
+**Hi, there! It's Unnati!**
 
 ## 👩‍💻 About Me
 
